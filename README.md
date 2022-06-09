@@ -1,6 +1,6 @@
-# Einundzwanzig Community Bot
+# TwentyOneWorld Community Bot
 
-Einundzwanzig Community Telegram Bot
+TwentyOneWorld Community Telegram Bot
 
 ## Requirements
 
